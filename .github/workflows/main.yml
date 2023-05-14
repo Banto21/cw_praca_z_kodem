@@ -1,0 +1,12 @@
+name: Pylint
+
+on: [push]
+
+
+jobs:
+  my_first_job:
+    runs-on:
+      group: ubuntu-latest
+    steps:
+      - name: My first step
+        run: python --version
