@@ -3,10 +3,3 @@
 3. Użyj komendy 'make run', żeby uruchomić aplikację.
 
 
-### 
-Readme jest istotnym elementem, ponieważ:
-- pomaga zrozumieć cel projektu,
-- pomaga poprawnie uruchomić projekt,
-- może zawierać porady jak go używać,
-- może pomóc rozwiązywać pojawiające się błędy.
-###
